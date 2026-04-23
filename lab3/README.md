@@ -7,7 +7,7 @@ ML API with FastAPI + Docker + MLflow + Streamlit.
 ml-fastapi-docker/
 ├── train.py              ← Train model with K-Fold + MLflow logging
 ├── main.py               ← FastAPI endpoints
-├── streamlit_app.py      ← Streamlit frontend (NEW — SIS-3)
+├── streamlit_app.py      ← Streamlit
 ├── model.joblib
 ├── scaler.joblib
 ├── feature_names.joblib
